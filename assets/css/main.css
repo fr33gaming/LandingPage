@@ -1,5 +1,6 @@
 @import url("fontawesome-all.min.css");
 @import url("https://fonts.googleapis.com/css?family=Lato:400,400italic,700,700italic|Source+Code+Pro:400");
+@import url("https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.5.2/css/all.min.css");
 
 /*
 	Read Only by HTML5 UP
@@ -2397,7 +2398,9 @@ input, select, textarea {
 				text-rendering: auto;
 				line-height: 1;
 				text-transform: none !important;
-				font-family: 'Font Awesome 5 Free';
+				font-family: 'Font Awesome 6 Brands',
+				'Font Awesome 5 Free';
+			
 				font-weight: 400;
 			}
 
